@@ -21,3 +21,16 @@ filename = filename + '.txt'
 with open(filename, "w+") as f:
     for i in range(10):
         f.write("This is line %d\r\n" % i)
+"""
+                  %%%%%%
+                 %%%%%%
+            @   %%%%%%    @
+          @@   %%%%%%      @@
+       @@@    %%%%%%%%%%%    @@@
+     @@      %%%%%%%%%%        @@
+       @@         %%%%       @@
+         @@      %%%       @@
+           @@    %%      @@
+                %%
+                %
+"""
